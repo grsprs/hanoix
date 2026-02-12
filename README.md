@@ -80,6 +80,9 @@ hanoix/
 │       ├── iterative.go     # Iterative implementation
 │       ├── *_test.go        # Unit tests
 │       └── benchmark_test.go # Performance benchmarks
+├── docs/
+│   └── adr/
+│       └── 001-iterative-algorithm.md # Architecture decisions
 ├── .github/
 │   ├── workflows/
 │   │   └── ci.yml           # CI/CD pipeline
