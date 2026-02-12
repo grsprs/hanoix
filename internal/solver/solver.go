@@ -1,6 +1,6 @@
 package solver
 
-import "github.com/grsprs/HanoiX-/internal/model"
+import "github.com/grsprs/hanoix/internal/model"
 
 // Solver defines the interface for Towers of Hanoi solvers.
 type Solver interface {

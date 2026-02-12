@@ -2,7 +2,7 @@
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://go.dev/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![CI Status](https://github.com/grsprs/HanoiX-/workflows/CI/badge.svg)](https://github.com/grsprs/HanoiX-/actions)
+[![CI Status](https://github.com/grsprs/hanoix/workflows/CI/badge.svg)](https://github.com/grsprs/hanoix/actions)
 
 Professional implementation of the classic Towers of Hanoi problem in Go, demonstrating clean architecture, idiomatic Go code, comprehensive testing, and performance benchmarking.
 
@@ -26,14 +26,14 @@ Copyright © 2026
 ### Installation
 
 ```bash
-go install github.com/grsprs/HanoiX-/cmd@latest
+go install github.com/grsprs/hanoix/cmd@latest
 ```
 
 Or clone and build:
 
 ```bash
-git clone https://github.com/grsprs/HanoiX-.git
-cd HanoiX-
+git clone https://github.com/grsprs/hanoix.git
+cd hanoix
 go build -o hanoix ./cmd
 ```
 
