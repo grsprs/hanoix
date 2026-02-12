@@ -1,6 +1,6 @@
 package solver
 
-import "github.com/grsprs/hanoix/internal/model"
+import "github.com/grsprs/HanoiX-/internal/model"
 
 // Recursive implements the recursive solution for Towers of Hanoi.
 type Recursive struct{}

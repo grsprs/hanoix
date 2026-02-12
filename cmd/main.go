@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/grsprs/hanoix/internal/solver"
+	"github.com/grsprs/HanoiX-/internal/solver"
 )
 
 func main() {

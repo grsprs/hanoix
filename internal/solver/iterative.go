@@ -1,6 +1,6 @@
 package solver
 
-import "github.com/grsprs/hanoix/internal/model"
+import "github.com/grsprs/HanoiX-/internal/model"
 
 // Iterative implements the iterative solution for Towers of Hanoi.
 type Iterative struct{}
