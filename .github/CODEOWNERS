@@ -1,0 +1,7 @@
+# Default owner for everything in the repo
+* @grsprs
+
+# Specific ownership
+/internal/solver/ @grsprs
+/cmd/ @grsprs
+/.github/ @grsprs
